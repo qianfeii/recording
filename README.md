@@ -7,6 +7,6 @@ some websites for developers<br>
  ` tips:偶尔会被墙 `  
    
    
-2. [devdocs](http://devdocs.io/angular/)<br>
+2. [devdocs](http://devdocs.io/)<br>
  同样的各种API及接口示例.相对我感觉这个更多啊~不过也没用过几次.   
  ` tips:这个没被墙 `
