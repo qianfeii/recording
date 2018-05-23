@@ -12,4 +12,5 @@ some websites for developers<br>
  ` tips:这个没被墙 `
  
  * blog <br>
- 1.[Dailc](https://dailc.github.io/blog/archiveAll.html)
+ 1.  [Dailc](https://dailc.github.io/blog/archiveAll.html)
+ 2.  [FEX](http://fex.baidu.com/)
