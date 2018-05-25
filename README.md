@@ -10,7 +10,13 @@ some websites for developers<br>
 2. [devdocs](http://devdocs.io/)<br>
  同样的各种API及接口示例.相对我感觉这个更多啊~不过也没用过几次.   
  ` tips:这个没被墙 `
- 
+    
  * blog <br>
- 1.  [Dailc](https://dailc.github.io/blog/archiveAll.html)
- 2.  [FEX](http://fex.baidu.com/)
+ 1. [Dailc](https://dailc.github.io/blog/archiveAll.html)
+   
+ 2. [FEX](http://fex.baidu.com/)
+   
+ * 社区<br>  
+ 1. [SegmentFault](https://github.com/qianfeii/websites/edit/master/README.md)
+ 
+ 2. [stackoverflow](https://stackoverflow.com/)
