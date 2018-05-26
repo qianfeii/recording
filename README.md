@@ -13,6 +13,7 @@ some websites for developers<br>
     
  * blog <br>
  1. [Dailc](https://dailc.github.io/blog/archiveAll.html)
+  `有惊喜`
    
  2. [FEX](http://fex.baidu.com/)
    
