@@ -24,4 +24,8 @@ some websites for developers<br>
  2. [stackoverflow](https://stackoverflow.com/)
 
  3. [CNode](https://cnodejs.org/)  
-   `node 社区`
+   `node 社区`  
+     
+ * 任务<br>
+ 1. [百度前端技术学院](http://ife.baidu.com/2016/task/all)
+   '可以根据其中的任务去做一些东西  使用一些新的东西做也不错'
