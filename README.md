@@ -16,6 +16,8 @@ some websites for developers<br>
   `有惊喜`
    
  2. [FEX](http://fex.baidu.com/)
+ 
+ 3.[前端基础进阶](https://www.jianshu.com/p/cd3fee40ef59)
    
  * 社区<br>  
  1. [SegmentFault](https://github.com/qianfeii/websites/edit/master/README.md)
