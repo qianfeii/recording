@@ -10,6 +10,8 @@ some websites for developers<br>
 2. [devdocs](http://devdocs.io/)<br>
  同样的各种API及接口示例.相对我感觉这个更多啊~不过也没用过几次.   
  ` tips:这个没被墙 `
+
+3. [webpack配置中文](https://webpack.docschina.org/concepts/#loader)
     
  * blog <br>
  1. [Dailc](https://dailc.github.io/blog/archiveAll.html)
