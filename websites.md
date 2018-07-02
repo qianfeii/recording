@@ -22,6 +22,8 @@ some websites for developers<br>
  3. [前端基础进阶](https://www.jianshu.com/p/cd3fee40ef59)
  
  4. [全栈学习](https://whjin.github.io/full-stack-development/)
+ 
+ 5. [阮一峰老师的博客](http://www.ruanyifeng.com/blog/)
    
  * 社区<br>  
  1. [SegmentFault](https://github.com/qianfeii/websites/edit/master/README.md)
