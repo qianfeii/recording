@@ -25,7 +25,9 @@ some websites for developers<br>
  
  5. [阮一峰老师的博客](http://www.ruanyifeng.com/blog/)  
  
- 6. [张鑫旭大神](https://www.zhangxinxu.com/)
+ 6. [张鑫旭大神](https://www.zhangxinxu.com/)  
+   
+ 7. [W3CPlus](http://www.w3cplus.com/)  
    
  * 社区<br>  
  1. [SegmentFault](https://github.com/qianfeii/websites/edit/master/README.md)
